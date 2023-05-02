@@ -4,7 +4,11 @@ import ChatBotPage from "./components/ChatBotPage";
 import Extension from "./components/Extension";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <Extension />
+    </div>
+  );
 }
 
 export default App;
