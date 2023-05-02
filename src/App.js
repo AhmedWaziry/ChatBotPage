@@ -1,5 +1,4 @@
 import "./App.css";
-import ChatBotPage from "./components/ChatBotPage";
 import Extension from "./components/Extension";
 
 function App() {

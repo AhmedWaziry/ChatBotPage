@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^static/js/(.\*)$ https://cdn.jsdelivr.net/gh/AhmedWaziry/ChatBotPage@tree/dev/build/static/js/$1 [L]
